@@ -1,0 +1,100 @@
+Foto de perfil de Sophia Rodríguez, estudiante de ingeniería ambiental de Mexico, de 23 años. Su rostro refleja determinación, tiene el pelo negro largo y suelto.
+
+Foto de perfil de Sophia Rodríguez, estudiante de ingeniería ambiental de Mexico, de 23 años. Una mirada serena y tranquila que refleja su conexión con la naturaleza y su compromiso con la causa ambiental.
+
+Foto de perfil de Diego Gómez, estudiante de ingeniería civil de Colombia, de 25 años. Su rostro refleja calidez, tiene el pelo corto, castaño y sus ojos son grises.
+
+Foto de perfil de Juan Pérez, estudiante de ingeniería mecánica de Argentina, de 22 años. Tiene una expresión tímida, el pelo rapado y ojos celestes.
+
+
+En base a los siguientes ejemplos, necesito que inventes un nuevo estudiante y me respondas solamente con los datos separados por pipes como estan provistos:
+|Nombre|Apellido|Edad|Pais|Ingeniería|Longitud|Color|Ojos|Expresion|
+|Sophia|Rodríguez|23|México|Ambiental|Largo|Negro|Marrones|Serena|
+|Diego|Gómez|25|Colombia|Civil|Corto|Negro|Grises|Concentrada|
+|Juan|Pérez|22|Argentina|Mecánica|Rapado|Rubio|Celestes|Tímida|
+-> 416 caracteres
+
+-> |Luis|Martínez|21|Chile|Industrial|Mediano|Castaño|Verdes|Determinada|
+* Foto de perfil de Luis Martínez, estudiante de ingeniería Industrial de Chile, de 21 años. Una mirada Determinada, el pelo mediano y Castaño con ojos Verdes.
+-> |Ana|Sánchez|24|España|Eléctrica|Mediano|Castano|Azules|Enfocada|
+* Foto de perfil de Ana Sánchez, estudiante de ingeniería Eléctrica de España, de 24 años. Con expresión Enfocada, el pelo mediano y Castano con ojos Azules.
+
+Es mucho mas corto!
+
+En base a los siguientes ejemplos, necesito que inventes un nuevo estudiante y me respondas solamente con los datos separados por pipes como estan provistos:
+```
+"Sophia"|"Rodríguez"|"23"|"México"|"Sophia Rodríguez es una estudiante de ingeniería ambiental de 23 años, apasionada por la conservación del medio ambiente y la sostenibilidad. Originaria de México, se destaca por su compromiso con proyectos que buscan mitigar el impacto ambiental y promover prácticas ecoamigables en la industria."|"Sophia Rodríguez, estudiante de ingeniería ambiental de Mexico, de 23 años, rodeada de muestras de agua y equipos de monitoreo. Su rostro refleja determinación mientras trabaja en un proyecto de conservación. Detrás de ella, un paisaje natural en restauración, resaltando su compromiso con el medio ambiente."
+"Diego"|"Gómez"|"25"|"Colombia"|"Diego Gómez es un estudiante de ingeniería civil de 25 años, con una pasión por diseñar infraestructuras innovadoras que mejoren la calidad de vida de las personas. Originario de Colombia, se destaca por su dedicación a proyectos de desarrollo urbano y su compromiso con la construcción sostenible."|"Diego Gómez, estudiante de ingeniería civil de Colombia, de 25 años, revisando planos y maquetas en su escritorio. Su rostro refleja concentración mientras visualiza la estructura del puente. Detrás de él, una maqueta del puente destacando su visión para el desarrollo urbano y la conexión comunitaria."
+"Juan"|"Pérez"|"22"|"Argentina"|"Juan Pérez, de 22 años, es un estudiante de ingeniería mecánica con una pasión desenfrenada por la robótica. Originario de Argentina, se destaca por su habilidad para diseñar y construir robots innovadores. Su determinación y creatividad lo convierten en un talento prometedor en el campo de la ingeniería."|"Juan Pérez, estudiante de ingeniería mecánica de Argentina, de 22 años, inmerso en la construcción de un robot en su taller. Su rostro refleja concentración mientras ensambla piezas. Detrás de él, una pizarra llena de diagramas y ecuaciones, demostrando su dedicación a la ingeniería."
+```
+-> 2072 caracteres
+
+Todavia falta la descripcion/bio...
+
+En base a los siguientes ejemplos, necesito que inventes una bio para Luis Martínez, estudiante de ingeniería Industrial de 21 años, de Chile. No mas de 50 palabras.
+* Sophia Rodríguez es una estudiante de ingeniería ambiental apasionada por la conservación del medio ambiente y la sostenibilidad. Originaria de México, se destaca por su compromiso con proyectos que buscan mitigar el impacto ambiental y promover prácticas ecoamigables en la industria.
+* Diego Gómez es un estudiante de ingeniería civil con una pasión por diseñar infraestructuras innovadoras que mejoren la calidad de vida de las personas. Originario de Colombia, se destaca por su dedicación a proyectos de desarrollo urbano y su compromiso con la construcción sostenible.
+* Juan Pérez es un estudiante de ingeniería mecánica con una pasión desenfrenada por la robótica. Originario de Argentina, se destaca por su habilidad para diseñar y construir robots innovadores. Su determinación y creatividad lo convierten en un talento prometedor en el campo de la ingeniería.
+
+-> "Luis Martínez, chileno de 21 años, es un estudiante de ingeniería Industrial apasionado por la optimización de procesos y la eficiencia industrial. Con determinación, busca innovar y mejorar la productividad en diversos sectores de la industria."
+
+En base a los siguientes ejemplos, necesito que inventes una bio para Ana Sánchez, estudiante de ingeniería Eléctrica de 24 años, de España. No mas de 50 palabras.
+* Sophia Rodríguez es una estudiante de ingeniería ambiental apasionada por la conservación del medio ambiente y la sostenibilidad. Originaria de México, se destaca por su compromiso con proyectos que buscan mitigar el impacto ambiental y promover prácticas ecoamigables en la industria.
+* Diego Gómez es un estudiante de ingeniería civil con una pasión por diseñar infraestructuras innovadoras que mejoren la calidad de vida de las personas. Originario de Colombia, se destaca por su dedicación a proyectos de desarrollo urbano y su compromiso con la construcción sostenible.
+* Juan Pérez es un estudiante de ingeniería mecánica con una pasión desenfrenada por la robótica. Originario de Argentina, se destaca por su habilidad para diseñar y construir robots innovadores. Su determinación y creatividad lo convierten en un talento prometedor en el campo de la ingeniería.
+
+-> "Ana Sánchez, española de 24 años, estudia ingeniería eléctrica con pasión por la innovación tecnológica. Destaca por su dedicación a proyectos que buscan mejorar la eficiencia energética y promover el uso de energías renovables en España."
+
+
+Necesito que inventes un relato en primera persona, de 250 palabras, junto con su titulo, para una experiencia que haya vivido Ana Sanchez, de 24 años, durante su carrera universitaria de ingenieria electrica. Te proveo ejemplos:
+* Armada con cafeína y determinación, me uní a un grupo de estudiantes de ingeniería informática para embarcarnos en un hackatón de 24 horas con el objetivo de desarrollar una aplicación de software innovadora. A pesar de la privación de sueño y la creciente presión, nuestra creatividad y trabajo en equipo florecieron mientras enfrentábamos desafíos de codificación complejos y generábamos soluciones innovadoras.  Durante toda la jornada, nos sumergimos en el mundo del desarrollo de software, aprovechando cada momento para colaborar y perfeccionar nuestra creación. A medida que avanzaba la noche, la adrenalina y la emoción se apoderaban de nosotros, impulsándonos a superar obstáculos y encontrar soluciones ingeniosas.  Finalmente, después de intensas horas de trabajo, llegó el momento de presentar nuestro prototipo completamente funcional ante un panel de jueces. La tensión en el aire era palpable mientras esperábamos ansiosamente el veredicto. Cuando escuchamos nuestro nombre llamado como ganadores, una oleada de emoción y orgullo nos invadió.  El esfuerzo valió la pena cuando recibimos los máximos honores y reconocimiento por nuestro ingenio y habilidades técnicas. Aquel hackatón no solo fue una prueba de nuestras habilidades, sino también una experiencia inolvidable de trabajo en equipo, perseverancia y superación de desafíos.
+* Durante una sesión práctica en el laboratorio, me encontré luchando por resolver un problema de ingeniería que parecía ser simple. A pesar de siempre destacar académicamente, me sentí frustrado al ver cómo mis compañeros de clase completaban la tarea con facilidad. Decidí tragarme mi orgullo y pedir ayuda a uno de mis compañeros. Con humildad, me acerqué a él y le expliqué mi situación. Para mi sorpresa, él no solo me ofreció su ayuda, sino que también me guió pacientemente a través del problema. Juntos, trabajamos en equipo para encontrar la solución. A medida que avanzábamos, ganaba un nuevo aprecio por el valor de la humildad y el poder del trabajo en equipo en la búsqueda del conocimiento. Al final, no solo encontramos la solución al problema, sino que también fortalecimos nuestra amistad y aprendí una valiosa lección sobre la importancia de pedir ayuda cuando la necesito y reconocer que siempre hay algo nuevo que aprender de los demás.
+* Una noche durante la semana de exámenes finales, decidimos, un grupo de estudiantes de ingeniería, tomar un respiro de tanto estudio y aventurarnos a explorar el campus. Mientras caminábamos, nos encontramos con el jardín en la azotea de la universidad, un lugar que rara vez visitábamos. La puerta que conducía a la sala de máquinas estaba desbloqueada, y con una mezcla de curiosidad y travesura, decidimos aventurarnos dentro. Una vez dentro, nos sumergimos en la oscuridad de la sala, apenas iluminada por la luz de nuestros teléfonos. Nos movíamos con cautela, explorando cada rincón con la emoción de estar en un lugar prohibido. Sin embargo, nuestro entusiasmo se convirtió rápidamente en preocupación cuando uno de nosotros tropezó con un interruptor y, en un instante, la sala quedó sumida en la oscuridad total. El pánico se apoderó de nosotros mientras intentábamos encontrar una solución. La idea de haber dejado a toda la universidad a oscuras nos llenó de nerviosismo y culpabilidad. Finalmente, después de unos momentos de caos, logramos restaurar la energía y devolver la luz a la universidad. Fue una experiencia que nunca olvidaremos. Aprendimos una valiosa lección sobre la importancia de la precaución y la humildad. A veces, la curiosidad puede llevarnos a situaciones inesperadas, pero es importante recordar que siempre debemos actuar con responsabilidad y consideración hacia los demás.
+
+-> Título: Un desafío eléctrico inesperado
+-> Durante una clase práctica en el laboratorio, nos asignaron la tarea de diseñar un circuito eléctrico complejo para simular un sistema de control de iluminación. Con mi experiencia previa, me sentí confiada al abordar el desafío.
+    Sin embargo, a medida que avanzaba la tarea, surgieron complicaciones inesperadas. Mi diseño inicial no funcionaba como esperaba, y la presión aumentaba con cada intento fallido. Me sentí frustrada y abrumada por la situación.
+    Decidí dar un paso atrás y revisar mi enfoque. Busqué en mi equipo de compañeros de clase para obtener nuevas perspectivas y sugerencias. Juntos, analizamos el problema y exploramos diferentes enfoques para encontrar una solución.
+    Después de varias horas de colaboración intensiva, finalmente logramos identificar el error en mi diseño y corregirlo. El circuito comenzó a funcionar correctamente, y una sensación de alivio y satisfacción nos invadió a todos.
+    Esta experiencia me enseñó la importancia de la perseverancia y el trabajo en equipo en la resolución de problemas. Aprendí que, incluso en los momentos de adversidad, buscar ayuda y colaborar con otros puede conducir a soluciones innovadoras y exitosas.
+
+
+Mejoramos muchas cosas:
+* Mayor detalle en la foto de perfil al agregar rasgos fisicos como la longitud y el color del pelo y el color de ojos; ademas de una expresion para el rostro. Al indicar a la IA que se trata de una foto de perfil, logramos que el estudiante "mire" a la camara.
+* Agregado de rama de ingeniería para un relato mas especifico.
+* Eliminamos comillas para ahorrar caracteres.
+* Mejores resultados en las nacionalidades de los alumnos. No mas España como predominante.
+* Los resultados son mucho mejores y justifican el aumento del costo.
+
+* Funciona el limite de 50 palabras?
+* Audio!
+
+Estamos agregando una llamada! Separamos los datos basicos del estudiante de la generacion de la bio.
+1. Datos basicos
+2. Bio
+3. Relato
+4. Imagen
+5. Audio
+
+
+
+
+jupyter notebook
+
+
+
+
+
+https://platform.openai.com/docs/guides/text-to-speech
+male: alloy, echo, fable, onyx, 
+female: nova, and shimmer
+default -> echo, dejo como un further step detectar en base al nombre?
+https://pypi.org/project/openai/0.28.0/
+entiendo que 0.28.0 no soporta esto?
+puedo probar https://platform.openai.com/docs/api-reference/audio/createSpeech
+pegandole al endpoint directo, pero tiene costo... chatgpt me sugirio pyttsx3
+    no funciono
+Sí, hay otras bibliotecas que puedes utilizar para generar audio a partir de texto en Python. Una opción popular es la biblioteca gTTS (Google Text-to-Speech), que utiliza la API de Text-to-Speech de Google para convertir texto en audio. Aquí te muestro cómo usar gTTS:
+    esto funciona, por defecto es un asco, comprar con llamar a openai
+    https://gtts.readthedocs.io/en/latest/
+Es mucho mejor con OpenAI pero al no poder indicarle el idioma es rari...
